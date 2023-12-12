@@ -1,0 +1,4 @@
+build/
+*.exe
+*.dll
+vc140.pdb
